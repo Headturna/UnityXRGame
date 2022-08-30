@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 8fcc63df119606d49861fe81f750342b
+timeCreated: 1578155779
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body
+    100002: CaseEjecting
+    100004: Circle
+    100006: Circle.001
+    100008: Cockinglever
+    100010: FiringSelector
+    100012: Magazine
+    100014: //RootNode
+    100016: Trigger
+    400000: Body
+    400002: CaseEjecting
+    400004: Circle
+    400006: Circle.001
+    400008: Cockinglever
+    400010: FiringSelector
+    400012: Magazine
+    400014: //RootNode
+    400016: Trigger
+    2100000: WeaponMat
+    2300000: Body
+    2300002: CaseEjecting
+    2300004: Circle
+    2300006: Circle.001
+    2300008: Cockinglever
+    2300010: FiringSelector
+    2300012: Magazine
+    2300014: Trigger
+    3300000: Body
+    3300002: CaseEjecting
+    3300004: Circle
+    3300006: Circle.001
+    3300008: Cockinglever
+    3300010: FiringSelector
+    3300012: Magazine
+    3300014: Trigger
+    4300000: Circle
+    4300002: Circle.001
+    4300004: FiringSelector
+    4300006: CaseEjecting
+    4300008: Cockinglever
+    4300010: Magazine
+    4300012: Trigger
+    4300014: Body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WeaponMat
+    second: {fileID: 2100000, guid: 1f54b832a287b0848b172322e39555d3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

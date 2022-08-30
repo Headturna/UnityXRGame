@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grabbable
+  - CinemachineTarget
+  - M4_8_Clip
+  - M4_8_Mag
+  - M4_8_Scope
+  - M1911_Mag
+  - Weapon_Ranged_2H
+  - Weapon_Ranged_1H
+  - Rail_Scope
+  - AK74_Mag
+  - M107_Mag
+  - Hand_Model
+  - Famas_Mag
+  - 2H_Barrel_Attachment
+  - Modern_AK47_Mag
+  - 2H_Rail_Accessory
+  - Tree
+  - Consumable
+  - M9_Mag
+  - Rail_Accessory
+  - 1H_Rail_Accessory
+  - 1H_Barrel_Attachment
+  - M4_Mag
+  - AKM_Mag
+  - Enemy
+  - SCAR_H_Mag
+  - M4_Attachment
+  - M4_Barrel
+  - M4_Handguard
+  - M4_Stock
+  - MatBall
+  - Item_Spawn_Collider
+  - Item_Despawn_Collider
+  - Torch
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Grabbed
+  - Player
+  - Backpack
+  - Socket
+  - UnGrabbed
+  - Attached
+  - Furniture
+  - Building
+  - Spawned
+  - Enemy
+  - MatBall
+  - Door
+  - Hand
+  - Integrated
+  - Item_Spawner
+  - RecycleBin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
